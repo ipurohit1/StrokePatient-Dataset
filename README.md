@@ -1,4 +1,4 @@
-# TensorFlow-TitanicDataset
+# StrokePatient-Dataset
 A Jupyter Notebook that uses a Scikit-Learn RandomForestClassifier model on a dataset that contains information about patients and whether they have had a stroke. The dataset includes information about the patients' gender, age, bmi, and smoking_status among other attributes. Given a csv file with this data, the goal is to explore and clean the data before establishing feature columns and splitting the data into a training and testing set so we can train our model and predict which patients had a stroke in the test data set. 
 
 ## Project Status
