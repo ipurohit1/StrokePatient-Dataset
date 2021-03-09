@@ -13,5 +13,5 @@ I plan to add multiple other training models in order check what algorithm perfo
 - seaborn (for visualization)
 
 ## References 
-https://www.datacamp.com/community/tutorials/random-forests-classifier-python
+https://www.datacamp.com/community/tutorials/random-forests-classifier-python <br>
 https://serokell.io/blog/classification-algorithms
